@@ -1,0 +1,24 @@
+_repo: The-Value-of-Zeta3-to-1-000-000-places_2583
+contributor:
+  creator:
+    editor:
+      agent_name: Plouffe, Simon
+      birthdate: 1956
+      gutenberg_agent_id: '330'
+      url: http://www.gutenberg.org/2009/agents/330
+      wikipedia: http://en.wikipedia.org/wiki/Simon_Plouffe
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics'
+- !lcc 'QA'
+title: The Value of Zeta(3) to 1,000,000 places
+url: http://www.gutenberg.org/ebooks/2583
